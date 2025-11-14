@@ -1,7 +1,7 @@
 # RAG_GEMINI
 Sistema RAG(Retrieval-Augmented Generation) en Python que permite crear una base de conocimiento inteligente usando archivos .txt y .csv. Incluye ingestión de datos, chunking, embeddings con SentenceTransformers y almacenamiento persistente en ChromaDB. Ideal para asistentes inteligentes, chatbots especializados basados en recuperación semántica.
 
-# RAG Knowledge Base – Football AI Assistant
+# RAG Knowledge Base 
 
 Este proyecto implementa un **sistema RAG (Retrieval-Augmented Generation)** diseñado para crear un asistente inteligente capaz de responder preguntas sobre un tema en especifico.
 
