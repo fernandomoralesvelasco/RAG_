@@ -3,7 +3,7 @@ Sistema RAG(Retrieval-Augmented Generation) en Python que permite crear una base
 
 # RAG Knowledge Base – Football AI Assistant
 
-Este proyecto implementa un **sistema RAG (Retrieval-Augmented Generation)** diseñado para crear un asistente inteligente capaz de responder preguntas sobre **fútbol americano**, reglas, jugadas, escenarios y situaciones del juego.
+Este proyecto implementa un **sistema RAG (Retrieval-Augmented Generation)** diseñado para crear un asistente inteligente capaz de responder preguntas sobre un tema en especifico.
 
 El sistema permite:
 
@@ -56,14 +56,3 @@ El sistema permite:
 | Lenguaje | **Python 3.10+** |
 | LLM recomendado | Gemini 2.5 Flash o GPT-4.1 |
 
-##  Obtención de los Datos
-
-El archivo de conocimiento utilizado en este proyecto fue generado mediante un proceso de **web scraping controlado** sobre contenido público disponible en el sitio oficial de la NFL.  
-El objetivo del scraping fue reunir información educativa relacionada con reglas, jugadas y situaciones del juego, con el único propósito de construir una base de conocimiento para un sistema de RAG.
-
-**Importante:**
-- No se incluye en este repositorio ningún contenido protegido por derechos de autor.
-- Los archivos de texto generados por scraping **no se distribuyen**, solo se procesan localmente para convertirlos en *embeddings*, los cuales no permiten reconstruir el texto original.
-- El scraping se realizó respetando la disponibilidad pública del contenido y exclusivamente con fines educativos y de experimentación técnica.
-
-Si deseas recrear el dataset, puedes ejecutar tu propio proceso de recolección siguiendo las políticas del sitio correspondiente.
