@@ -37,6 +37,7 @@ El sistema permite:
 ├── venv/                 # (Opcional) Entorno virtual yo recomiendo más crearlo y usar python 3.11.9 o inferior no soporta 3.12 jeje
 
 ├── requirements.txt
+├── .env (este archivo no lo subo por cuestiones de seguridad pero ustedes lo pueden crear es un archivo formato .env y dentro de el ponen el anexo de abajo)
 
 └── README.md
 
@@ -49,4 +50,13 @@ El sistema permite:
 | División inteligente de texto | **LangChain Text Splitters** |
 | Lenguaje | **Python 3.10+** |
 | LLM recomendado | Gemini 2.5 Flash o GPT-4.1 |
+
+# ANEXO
+Dentro de .env ponen : 
+GEMINI_API_KEY=XXXXXXXX-AQUÍ-TU-API-SIN-COMILLAS
+CHROMA_PERSIST=db
+EMBEDDING_MODEL=all-MiniLM-L6-v2
+TOP_K=6
+RERANK_TOP=3
+
 
