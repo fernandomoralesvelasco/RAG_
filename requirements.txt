@@ -1,0 +1,7 @@
+python-dotenv
+google-generativeai
+chromadb==0.4.22
+sentence-transformers==2.7.0
+fastapi
+uvicorn
+tiktokeng
