@@ -37,6 +37,7 @@ El sistema permite:
 ├── venv/                 # (Opcional) Entorno virtual yo recomiendo más crearlo y usar python 3.11.9 o inferior no soporta 3.12 jeje
 
 ├── requirements.txt
+
 ├── .env (este archivo no lo subo por cuestiones de seguridad pero ustedes lo pueden crear es un archivo formato .env y dentro de el ponen el anexo de abajo)
 
 └── README.md
