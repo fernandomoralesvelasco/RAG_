@@ -55,9 +55,13 @@ El sistema permite:
 # ANEXO
 Dentro de .env ponen : 
 GEMINI_API_KEY=XXXXXXXX-AQUÍ-TU-API-SIN-COMILLAS
+
 CHROMA_PERSIST=db
+
 EMBEDDING_MODEL=all-MiniLM-L6-v2
+
 TOP_K=6
+
 RERANK_TOP=3
 
 
