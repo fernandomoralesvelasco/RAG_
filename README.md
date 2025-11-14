@@ -18,12 +18,6 @@ El sistema permite:
 
 ---
 
-##  Demo del proyecto (ejemplo)
-> *“¿Qué pasa si un jugador toma el balón fuera de la zona?”*  
-→ El asistente recupera información precisa desde la base vectorial y construye una respuesta completamente contextualizada.
-
----
-
 ## 📂 Estructura del Repositorio
 .
 ├── data/                 # Archivos TXT o CSV con conocimiento
