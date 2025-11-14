@@ -54,6 +54,7 @@ El sistema permite:
 
 # ANEXO
 Dentro de .env ponen : 
+
 GEMINI_API_KEY=XXXXXXXX-AQUÍ-TU-API-SIN-COMILLAS
 
 CHROMA_PERSIST=db
